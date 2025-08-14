@@ -1,0 +1,37 @@
+# 📊 Power BI Dashboard: Sales & Profit Analysis
+
+## 📌 KPI
+
+- Total sales amount  
+- Total amount of profit  
+- Profit ratio  
+- Profit per order  
+- Sales per customer  
+- Average discount  
+- Total number of products sold
+
+## 📈 Charts
+
+- Monthly sales chart by segment  
+- Monthly sales chart by product category  
+- Sales chart by customer names (sorted in descending order of sales)  
+- Separate diagrams:
+  - Sales by region  
+  - Profit by region  
+  - The number of products sold by region  
+  - Profit ratio by region  
+- Normalized distribution chart **of shipping statuses (Ship Status)** by **regions** (by the number of products sold)
+
+## 🗺️ Shape Map
+
+- Geographical map showing **profit ratio by state**
+
+## 📋 Table
+
+- Sales and profit table by:
+  - Product names  
+  - Product categories
+
+## 📊 Dashboard
+
+<img width="1435" height="806" alt="Dashboard" src="https://github.com/user-attachments/assets/1863ed57-7051-4429-83cd-6ee22197e989" />
